@@ -29,7 +29,7 @@ if st.button("Prediksi", type="primary"):
 	st.balloons()
 
 st.divider()
-st.caption("Dibuat dengan 🍅 oleh **Pian Dwi Cahyo
-**")
+st.caption("Dibuat dengan 🍅 oleh **Pian Dwi Cahyo**")
+
 
 
